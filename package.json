@@ -1,0 +1,19 @@
+{
+  "name": "legit-cards",
+  "version": "0.0.1",
+  "description": "A simple React component to make Thoughtbot Refills Cards",
+  "main": "./lib/card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legitcode/cards.git"
+  },
+  "author": "Darin Haener <dphaener@gmail.com> (https://github.com/dphaener)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Legitcode/cards/issues"
+  },
+  "homepage": "https://github.com/Legitcode/cards#readme"
+}
