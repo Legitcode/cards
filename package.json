@@ -1,6 +1,6 @@
 {
   "name": "legit-cards",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple React component to render Thoughtbots Refills card component",
   "main": "lib/cards.js",
   "scripts": {
@@ -41,7 +41,7 @@
     "webpack": "^1.12.1",
     "webpack-dev-server": "^1.10.1"
   },
-  "dependencies": {
-    "react": "^0.13.3"
+  "peerDependencies": {
+    "react": "0.14.2"
   }
 }
